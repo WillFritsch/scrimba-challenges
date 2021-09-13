@@ -1,0 +1,21 @@
+body {
+	margin: 0px;
+}
+
+h1 {
+	font-size: 72px;
+	background-color: #281B2D;
+	color: #FFF;
+	text-align: center;
+	margin-top: 0px;
+	padding: 25px 0px;
+}
+
+.subheading {
+	color: #FCD801;
+	background-color: #281B2D;
+	font-size: 48px;
+	padding: 25px 25px;
+	margin-right: 33%;
+	border-bottom: 5px solid #00C54C;
+}
